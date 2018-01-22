@@ -9,9 +9,9 @@ function scuberGreetingForFeet(f) {
   }
 }
 
-function ternaryCheckCity(city) {
-  const city = NYC;
-  if (city === NYC) {
+function ternaryCheckCity(c) {
+  const c = NYC;
+  if (c === NYC) {
     return 'Ok, sounds good.'
   }
 }
